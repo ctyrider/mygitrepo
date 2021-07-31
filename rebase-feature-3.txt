@@ -1,1 +1,3 @@
 some file 3
+
+newline
